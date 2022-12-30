@@ -1,3 +1,3 @@
 # aula_bootstrap
-Utilizando Bootstrap
+Utilizando Bootstrap2
 Teste
